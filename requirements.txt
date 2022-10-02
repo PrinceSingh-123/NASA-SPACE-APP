@@ -1,0 +1,5 @@
+cdflib
+spacepy
+matplotlib
+numpy
+wget
